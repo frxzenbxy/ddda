@@ -8,7 +8,7 @@ body {
 }
 
 main {
-  display: block;
+  display: flex;
 }
 
 h1 {
